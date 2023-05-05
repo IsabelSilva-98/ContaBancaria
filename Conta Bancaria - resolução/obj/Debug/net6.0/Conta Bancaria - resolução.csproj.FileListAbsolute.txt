@@ -1,0 +1,15 @@
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\bin\Debug\net6.0\Conta Bancaria - resolução.exe
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\bin\Debug\net6.0\Conta Bancaria - resolução.deps.json
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\bin\Debug\net6.0\Conta Bancaria - resolução.runtimeconfig.json
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\bin\Debug\net6.0\Conta Bancaria - resolução.dll
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\bin\Debug\net6.0\Conta Bancaria - resolução.pdb
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.dll
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\refint\Conta Bancaria - resolução.dll
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.pdb
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\Conta Bancaria - resolução.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\Visual Studio\Conta Bancaria - resolução\Conta Bancaria - resolução\obj\Debug\net6.0\ref\Conta Bancaria - resolução.dll
