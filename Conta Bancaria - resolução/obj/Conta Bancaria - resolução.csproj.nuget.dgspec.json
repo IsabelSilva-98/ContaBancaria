@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesae\\Desktop\\Exercicio - Banco com anotaçoes\\clone conta bancaria\\ContaBancaria\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj": {}
+    "C:\\Users\\Cesae\\Desktop\\Isabel\\Programação de computação (estruturada)\\Visual Studio\\Conta Bancaria - resolução\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesae\\Desktop\\Exercicio - Banco com anotaçoes\\clone conta bancaria\\ContaBancaria\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj": {
+    "C:\\Users\\Cesae\\Desktop\\Isabel\\Programação de computação (estruturada)\\Visual Studio\\Conta Bancaria - resolução\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\Exercicio - Banco com anotaçoes\\clone conta bancaria\\ContaBancaria\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj",
+        "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\Isabel\\Programação de computação (estruturada)\\Visual Studio\\Conta Bancaria - resolução\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj",
         "projectName": "Conta Bancaria - resolução",
-        "projectPath": "C:\\Users\\Cesae\\Desktop\\Exercicio - Banco com anotaçoes\\clone conta bancaria\\ContaBancaria\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj",
+        "projectPath": "C:\\Users\\Cesae\\Desktop\\Isabel\\Programação de computação (estruturada)\\Visual Studio\\Conta Bancaria - resolução\\Conta Bancaria - resolução\\Conta Bancaria - resolução.csproj",
         "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesae\\Desktop\\Exercicio - Banco com anotaçoes\\clone conta bancaria\\ContaBancaria\\Conta Bancaria - resolução\\obj\\",
+        "outputPath": "C:\\Users\\Cesae\\Desktop\\Isabel\\Programação de computação (estruturada)\\Visual Studio\\Conta Bancaria - resolução\\Conta Bancaria - resolução\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
