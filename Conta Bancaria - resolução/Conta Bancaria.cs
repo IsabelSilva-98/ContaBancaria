@@ -12,7 +12,7 @@ namespace Conta_Bancaria___resolução
 
         public int NumeroConta { get; }
         public string NomeTitular { get; set; }
-        public double Saldo { get; private set; }
+        public double Saldo { get; private set; }  
 
         // Construtores
 
@@ -49,5 +49,9 @@ namespace Conta_Bancaria___resolução
                 + Saldo.ToString("F2")
                 + " euros.";
         }
+
+
+
+        /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
     }
 }
